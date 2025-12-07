@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+scipy
+statsforecast
+pmdarima
+plotly
+tqdm
+pyyaml
